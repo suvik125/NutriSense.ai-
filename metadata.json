@@ -1,0 +1,6 @@
+{
+  "name": "NutriSense",
+  "description": "Personalized Nutrition & Adaptive Diet Platform with macro calculators, adaptive meal planning, food photo analysis, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
